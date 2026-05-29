@@ -1,6 +1,6 @@
 ---
-title: how to type fran
-date: 2025-12-31 20:00:00 +0800
+title: how to type franch in a us keyboard
+date: 2026-05-27 20:00:00 +0800
 categories: [法语, 生活记录, 学习]
 tags: [français, languages]
 ---
