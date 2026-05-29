@@ -18,7 +18,7 @@ tags: [français, languages]
 ![fcitx_french](../assets/img/posts/tutorial/Fcitx_french.png)
 装好fcitx后直接添加就好了 然后你自己切换一下输入法😄
 就这么简单
-~这篇文章属实也简单~
+~~这篇文章属实也简单~~
 
 这段时间应该会猛猛更新,各位敬请期待
 
@@ -88,4 +88,7 @@ French (US) / fr(us)
 ┃ Ctrl  ┃ Super   ┃ Alt   ┃                 Space                  ┃ AltGr  ┃ Menu  ┃ Ctrl  ┃
 ┗━━━━━━━┻━━━━━━━━━┻━━━━━━━┹────────────────────────────────────────┺━━━━━━━━┻━━━━━━━┻━━━━━━━┛
 
-相信大家看过之后,只要发送这篇文章给codex,也可以快速上手法语type (在linux上~btw i use arch~)
+it seems to be a mess, so i place the picture below, an image beats a thousand words
+![french_keymap](../assets/img/posts/tutorial/french_keymap.png)
+
+相信大家看过之后,只要发送这篇文章给codex,也可以快速上手法语type (在linux上~~btw i use arch~~)
