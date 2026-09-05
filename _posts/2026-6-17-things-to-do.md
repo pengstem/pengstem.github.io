@@ -1,5 +1,5 @@
 ---
-title: kitty as all -- to replace tmux and zellij
+title: Illustions to dream
 date: 2026-06-17 00:00:00 +0800
 categories: [ ambition ]
 tags: [ purpose, me]
